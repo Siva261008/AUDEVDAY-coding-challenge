@@ -1,3 +1,4 @@
+WINNING TICKET NUMBER
 Harry wants to sell lottery tickets and earn money out of it . In his basic research that most lottery tickets follow some logic in deciding the winning ticket number. He studies many algorithms for the same and finally decided in to device algorithm.
 
 Every day he provides 2 numbers as an input to the algorithm which is N
