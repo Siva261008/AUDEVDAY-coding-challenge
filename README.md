@@ -47,3 +47,45 @@ In first test case list will be 2,5,7,17,37,47,67
 In second test case list will be 2,5,3,13,23,43,53,73,83,103,113,163
  which when added results in 677
 .
+---------------------------------------------------------------------------------------------------------------------------
+closest_number
+Given a sorted array of N
+ integers and an integer X
+, find the integer that is closest to X
+, 
+
+return the closeness of X
+ to that integer.
+
+Closeness of two integers u
+ and v
+ is simply absolute value of u
+ - v
+.
+
+ 
+
+Input
+First line contains two integers N
+ and X
+.
+
+Second line contains N
+ integers describing the array.
+
+ 
+
+Output 
+Find an Integer in the array closest to X
+ and print the closeness.
+
+Example
+
+Input
+
+5 2
+6 8 10 13 23
+
+Output
+4
+6 is closest to 2, hence closeness is abs(2-6) -> 4.
